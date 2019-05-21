@@ -1,0 +1,18 @@
+Bot関連のアカウント情報等
+
+＜Gmail＞
+アドレス：smartdiysbot@gmail.com
+姓：smartdiys
+名：botAccount
+pass：いつもの
+
+＜Chatwork＞
+名前：FAQ_bot
+pass：いつもの
+APIトークン：17403afa08cd095b3a590319717fca77
+Bot用ルームID：120259405
+
+＜Heroku＞
+使用アドレス：smartdiysbot@gmail.com
+pass：p_v****** (いつもののやつに_を追加)
+
